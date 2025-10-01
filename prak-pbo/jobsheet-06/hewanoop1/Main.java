@@ -6,8 +6,6 @@ public class Main {
     kucing.bersuara();
     kucing.mengeong();
 
-    System.out.println();
-
     Anjing anjing = new Anjing("Max");
     anjing.bersuara();
     anjing.menggonggong();
